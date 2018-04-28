@@ -1,0 +1,8 @@
+﻿  TextBox.cpp
+d:\studies\year 3\amit\winconsole\textbox.cpp(79): warning C4101: 'i': unreferenced local variable
+  main.cpp
+d:\studies\year 3\amit\winconsole\main.cpp(15): warning C4101: 'cNumRead': unreferenced local variable
+d:\studies\year 3\amit\winconsole\main.cpp(14): warning C4101: 'irInBuf': unreferenced local variable
+d:\studies\year 3\amit\winconsole\main.cpp(15): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Ausu\source\repos\Project1\Debug\Project1.exe
