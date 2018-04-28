@@ -13,11 +13,11 @@ int main(int argc, char** argv) {
 	
 	CheckBox checkBox1(coordArray[0],"option 1"), checkBox2(coordArray[1], "option 2"), checkBox3(coordArray[2], "option 3" );
 
-	checkBox1.setBackground(BACKGROUND_RED);
+	//checkBox1.setBackground(BACKGROUND_RED);
 	checkBox1.draw();
-	checkBox2.setBackground(BACKGROUND_RED);
+	//checkBox2.setBackground(BACKGROUND_RED);
 	checkBox2.draw();
-	checkBox3.setBackground(BACKGROUND_RED);
+	//checkBox3.setBackground(BACKGROUND_RED);
 	checkBox3.draw();
 
 	HANDLE in = GetStdHandle(STD_INPUT_HANDLE);
